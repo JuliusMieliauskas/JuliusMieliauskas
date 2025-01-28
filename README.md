@@ -2,7 +2,7 @@
 
 <h1>Welcome!</h1> 
 
-I am a full-stack software developer with a strong foundation in web development. I've always been interested in cutting-edge technology and its application in real-world scenarios. Beyond my professional pursuits, I have a keen interest in sports, physics, finance. To get a glimpse into my latest endeavor, which embodies technology and finance, feel free to visit my project at <a target="_blank" href="https://7-mag.vercel.app">7-mag.vercel.app</a>
+I am a full-stack software developer with a strong foundation in web development. I've always been interested in cutting-edge technology and its application in real-world scenarios. Beyond my professional pursuits, I have a keen interest in sports, physics, finance.
 
 ## Programming languages & frameworks
 
